@@ -1,28 +1,28 @@
 ## System Screenshots
 
 ### 1. Login Page
-![Login Page](screenshots/1.login%20page.jpg)
+<img width="912" height="514" alt="1 login page" src="https://github.com/user-attachments/assets/cb3cb596-fe54-4e96-ba77-ee02ce4d3b7c" />
 
 ### 2. Browse & Filter Events
-![Browse & Filter Events](screenshots/2.browse%20&%20filter%20events.jpg)
+<img width="912" height="514" alt="2 browse   filter events" src="https://github.com/user-attachments/assets/f30f9c7e-c656-474e-8a3d-81d42e8d60d5" />
 
 ### 3. Event Details & Booking
-![Event Details & Booking](screenshots/3.event%20details%20&%20booking.jpg)
+<img width="910" height="512" alt="3 event details   booking" src="https://github.com/user-attachments/assets/e1f8242a-44f8-4f7f-b65f-bc5d72074b34" />
 
 ### 4. Organizer Dashboard & Event Creation
-![Organizer Dashboard & Event Creation](screenshots/4.organizer%20dashboard%20&%20event%20creation.jpg)
+<img width="906" height="510" alt="4 organizer dashboard   event creation" src="https://github.com/user-attachments/assets/ac41c221-e5d6-4853-ab62-e25b385a507d" />
 
 ### 5. Admin & Support Dashboards
-![Admin & Support Dashboards](screenshots/5.admin%20&%20support%20dashboards.jpg)
+<img width="916" height="516" alt="5 admin   support dashboards" src="https://github.com/user-attachments/assets/81e18810-a586-4afe-b58b-338fd409cc20" />
 
 ### 6. Choose Your Role
-![Choose Your Role](screenshots/6.choose%20your%20role.jpg)
+<img width="902" height="508" alt="6 choose your role" src="https://github.com/user-attachments/assets/beafb839-3dc2-4271-81b9-8e1a07cf0a7c" />
 
 ### 7. Support Dashboard & Live Chat
-![Support Dashboard & Live Chat](screenshots/7.support%20dashboard%20&%20live%20chat.jpg)
+<img width="818" height="460" alt="7 support dashboard   live chat" src="https://github.com/user-attachments/assets/4d6e826b-3773-4961-afa7-e21f7f6f2989" />
 
 ### 8. Admin Dashboard & Overview
-![Admin Dashboard & Overview](screenshots/8.admin%20dashboard%20&%20overview.jpg)
+<img width="820" height="462" alt="8 admin dashboard   overview" src="https://github.com/user-attachments/assets/8ad39d76-dd20-417f-a498-0a9943064c7f" />
 
 ### 9. Organizer Dashboard & Overview
-![Organizer Dashboard & Overview](screenshots/9.organizer%20dashboard%20&%20overview.jpg)
+<img width="818" height="460" alt="9 organizer dashboard   overview" src="https://github.com/user-attachments/assets/e568f898-9174-4e07-b5be-0db0c10be6b7" />
